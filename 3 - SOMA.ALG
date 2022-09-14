@@ -2,9 +2,9 @@ algoritmo "Soma"
 var
    N1, N2, S : Inteiro
 inicio
-   Escreva ("Informe um número: ")
+   Escreva ("Informe um nÃºmero: ")
    Leia (N1)
-   Escreva ("Informe outro número: ")
+   Escreva ("Informe outro nÃºmero: ")
    Leia (N2)
    S <- N1 + N2
    Escreva ("A soma entre" , N1, " e", N2, " e igual a" ,S)
