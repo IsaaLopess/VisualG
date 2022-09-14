@@ -11,6 +11,6 @@ inicio
       Se (Idade >=18) entao
       Escreval ("Voce e maior de idade")
       Senao
-      Escreval ("Voce é menor de idade")
+      Escreval ("Voce e menor de idade")
       Fimse
 fimalgoritmo
