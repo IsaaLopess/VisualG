@@ -5,7 +5,7 @@ var
 inicio
       Escreva ("Qual o nome do funcionario?")
       Leia (Nome)
-      Escreva ("Quanto é o salario dele?")
+      Escreva ("Quanto Ã© o salario dele?")
       Leia (Salario)
       Escreval ("O funcionario ", Nome , " tem um salario de R$", Salario)
 fimalgoritmo
