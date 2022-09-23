@@ -3,9 +3,9 @@ var
    N1, N2 : Inteiro
    M: Real
 inicio
-   Escreva ("Informe um número: ")
+   Escreva ("Informe um nÃºmero: ")
    Leia (N1)
-   Escreva ("Informe outro número: ")
+   Escreva ("Informe outro nÃºmero: ")
    Leia (N2)
    Escreval ("-----------------------")
    M <- (N1 + N2)/2
