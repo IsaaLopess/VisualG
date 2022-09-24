@@ -7,5 +7,5 @@ inicio
       D <- (N1*2)
       T <- (N1/3)
       Escreval ("O dobro de ", N1 , " e", D)
-      Escreval ("A terça parte de", N1 , " e", T)
+      Escreval ("A terÃ§a parte de", N1 , " e", T)
 fimalgoritmo
