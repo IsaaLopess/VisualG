@@ -1,11 +1,11 @@
-algoritmo "Habilitação"
+algoritmo "HabilitaÃ§Ã£o"
 var
    N, A, I: Inteiro
 inicio
       Escreval ("-------------------------------------")
       Escreval ("DEPARTAMENTO DE TRANSITO")
       Escreval ("-----------------------------------")
-      Escreva ("Em que ano você nasceu?: ")
+      Escreva ("Em que ano vocÃª nasceu?: ")
       Leia (N)
       Escreva ("Em que ano nos estamos?: ")
       Leia (A)
