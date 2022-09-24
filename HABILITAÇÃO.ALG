@@ -1,0 +1,18 @@
+algoritmo "Habilitação"
+var
+   N, A, I: Inteiro
+inicio
+      Escreval ("-------------------------------------")
+      Escreval ("DEPARTAMENTO DE TRANSITO")
+      Escreval ("-----------------------------------")
+      Escreva ("Em que ano você nasceu?: ")
+      Leia (N)
+      Escreva ("Em que ano nos estamos?: ")
+      Leia (A)
+      I <- (A - N)
+      Se (I >=18) ENTAO
+      Escreval ("Parabens! voce ja pode dirigir.")
+      Senao
+      Escreval ("Sinto muito! voce ainda nao pode dirigir.")
+      Fimse
+fimalgoritmo
