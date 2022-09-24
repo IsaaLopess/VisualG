@@ -1,4 +1,4 @@
-algoritmo "Habilitação"
+algoritmo "HabilitaÃ§Ã£o"
 var
    N, A, I: Inteiro
 inicio
