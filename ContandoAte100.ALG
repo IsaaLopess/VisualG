@@ -1,4 +1,4 @@
-algoritmo "Contandoate1000000"
+algoritmo "Contandoate1000"
 var
     Contador: Inteiro
 inicio
