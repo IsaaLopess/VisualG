@@ -4,5 +4,5 @@ var
 inicio
       Escreva ("Digite seu Nome: ")
       Leia (Nome)
-      Escreval ("Muito Prazer, ", nome, "! Meu nome e Isa")
+      Escreval ("Muito Prazer, ", nome, "! Meu nome e Isa.")
 fimalgoritmo
