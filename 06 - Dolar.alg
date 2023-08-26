@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "ConversaoDoDolar"
 var
    R, D: Real
 inicio
@@ -7,5 +7,5 @@ inicio
       Escreval ("Considerado o preco do dolar em 13/09/2022: 5.15")
       Escreval ("------------------------------------------------")
       D <- Int(R / 5.15)
-      Escreval ("Voce pode comprar", D , " dolares")
+      Escreval ("Voce pode comprar", D, " dolares.")
 fimalgoritmo
