@@ -6,7 +6,7 @@ inicio
       Escreva ("Informe o primeiro numero: ")
       Leia (N1)
       Escreval ("---------------------------")
-      Escreva ("Informe qual o sinal de operação [ + - * / ]: ")
+      Escreva ("Informe qual o sinal de operaÃ§Ã£o [ + - * / ]: ")
       Leia (simbolo)
       Escreval ("---------------------------")
       Escreva ("Informe o segundo numero: ")
