@@ -3,7 +3,7 @@ var
    contador, N: Inteiro
 inicio
       contador <- 1
-      Escreva ("Qual casa da tabuada voce quer?: ")
+      Escreva ("Quer ver a tabuada de qual numero?: ")
       Leia (N)
         Repita
               Escreval (N, " x ", contador, "=", n * contador)
