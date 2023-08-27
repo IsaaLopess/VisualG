@@ -1,4 +1,4 @@
-algoritmo "Media4"
+algoritmo "Media3.0"
 var
     n1, n2, n3, n4, media: Real
 inicio
