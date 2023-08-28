@@ -1,10 +1,10 @@
 algoritmo "SeletordePessoas"
 var
    G, S, V, F, M, N: Caractere
-   I, C, MLJ, MMJ: Inteiro
+   I, C, MLJ, HM: Inteiro
 inicio
  MLJ <- 0
- MMJ <- 0
+ HM <- 0
       Repita
       Escreval ("=========================")
       Escreval ("   Seletor de Pessoas   ")
@@ -29,7 +29,7 @@ inicio
                MLJ <- MLJ + 1
       Senao
                Se  (G = "M") e (C = 2) e (I >= 18) entao
-               MMJ <- MMJ + 1
+               HM <- HM + 1
        Fimse
  Fimse
                Se (V = "S") entao
@@ -37,5 +37,5 @@ inicio
        Fimse
 Ate (V = "N")
               Escreval ("Tem", MLJ, " mulheres loiras de 25 a 30 anos")
-              Escreval ("Tem", MMJ, " homens com cabelo castanho com mais de 18 anos")
+              Escreval ("Tem", HM, " homens com cabelo castanho com mais de 18 anos")
 fimalgoritmo
