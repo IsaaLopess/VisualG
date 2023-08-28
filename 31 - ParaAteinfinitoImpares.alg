@@ -11,5 +11,6 @@ inicio
                Impar <- Impar + 1
                Fimse
            Fimpara
+             Escreval ("--------------------------------------------")
              Escreval ("Neste intervalo ha", Impar, " numeros pares.")
 fimalgoritmo
