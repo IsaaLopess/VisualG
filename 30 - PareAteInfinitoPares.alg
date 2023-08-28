@@ -11,5 +11,6 @@ inicio
                Par <- Par + 1
                Fimse
            Fimpara
-             Escreval ("Neste intervalo ha", Par, " numeros pares")
+             Escreval ("-----------------------------------------")
+             Escreval ("Neste intervalo ha", Par, " numeros pares.")
 fimalgoritmo
