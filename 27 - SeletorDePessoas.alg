@@ -36,6 +36,6 @@ inicio
                Limpatela
        Fimse
 Ate (V = "N")
-              Escreval ("Tem", MLJ, " mulheres loiras de 25 a 30 anos")
-              Escreval ("Tem", HM, " homens com cabelo castanho com mais de 18 anos")
+              Escreval (MLJ, " mulhere(s) loiras de 25 a 30 anos.")
+              Escreval (HM, " homem(ns) com cabelo castanho com mais de 18 anos.")
 fimalgoritmo
