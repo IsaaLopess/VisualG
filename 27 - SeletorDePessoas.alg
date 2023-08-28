@@ -32,7 +32,7 @@ inicio
                MMJ <- MMJ + 1
        Fimse
  Fimse
-      Se (V = "S") entao
+               Se (V = "S") entao
                Limpatela
        Fimse
 Ate (V = "N")
