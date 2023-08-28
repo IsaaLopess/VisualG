@@ -6,10 +6,10 @@ inicio
       Escreva ("Digite qual sequencia Fibonacci voce deseja ver: ")
       Leia (S)
       Escreval ("-------------------------------------------------")
-      N1 <- 0
-      Escreval (N1)
-      N2 <- 1
-      Escreval (N2)
+         N1 <- 0
+         Escreval (N1)
+         N2 <- 1
+         Escreval (N2)
                Para C := 3 ate S faca
                N3 := N1 + N2
                   Escreval (N3)
